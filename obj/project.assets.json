@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\10011751\\desktop\\assessment2-group2\\assessment2-group2.csproj",
+      "projectUniqueName": "C:\\Users\\10011751\\Desktop\\assessment2-group2\\assessment2-group2.csproj",
       "projectName": "assessment2-group2",
-      "projectPath": "C:\\Users\\10011751\\desktop\\assessment2-group2\\assessment2-group2.csproj",
+      "projectPath": "C:\\Users\\10011751\\Desktop\\assessment2-group2\\assessment2-group2.csproj",
       "packagesPath": "C:\\Users\\10011751\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\10011751\\desktop\\assessment2-group2\\obj\\",
+      "outputPath": "C:\\Users\\10011751\\Desktop\\assessment2-group2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
