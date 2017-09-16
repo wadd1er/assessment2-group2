@@ -1,1 +1,39 @@
-body{padding-top:50px;padding-bottom:20px}.body-content{padding-left:15px;padding-right:15px}.carousel-caption p{font-size:20px;line-height:1.4}.carousel-inner .item img[src$=".svg"]{width:100%}#qrCode{margin:15px}@media screen and (max-width:767px){.carousel-caption{display:none}}
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: red;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.site-footer {
+    background-color: #222;
+    color: #fff;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.bottom-footer {
+    border-top: 1px solid #b2b2b2;
+    color: #b2b2b2;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.footer-nav li {
+    display: inline;
+}
+
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
