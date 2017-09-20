@@ -38,7 +38,6 @@ body {
     text-align: left;
     font-style: italic;
     font-size: 40px;
-    background-color: #037203;
 }
 .site-footer {
     background-color: #0C0101;
@@ -93,7 +92,7 @@ h2 {
 h5 {
     text-align: center;
     font-size: 35px;
-    color: #FDF9F9;
+    color: #468CF7;
 }
 
 h3 {
@@ -103,16 +102,52 @@ h3 {
     color: #FDF9F9;
 }
 
+.custom-background {
+    background-color: white;
+}
 p {
     font-size: 15px;
     color: #6BCBF1;
 }
+.rcorners1 {
+    border-radius: 5px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+.p1 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #888888;
 
-p1 {
-    display: inline;
     text-align: center;
-    font-size: 15px;
-    color: #6BCBF1;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 100, 255, 0.8);
+}
+.p2 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 120, 255, 0.8);
+}
+.p3 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 140, 255, 0.5);
 }
 
 p2 {
@@ -122,6 +157,10 @@ p2 {
     font-size: 20px;
     max-width: 150px;
     font-style: italic;
+}
+.img{
+    padding: 50px 30px 50px 80px;
+
 }
 
 /* Hide/rearrange for smaller screens */
