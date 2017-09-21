@@ -5,19 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - assessment2_group2</title>
 
-    <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
         <link rel="stylesheet" href="~/css/site.css" />
-    </environment>
-    <environment exclude="Development">
-        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
-              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
-              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
-        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
-    </environment>
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top animated-header">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -26,10 +18,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">assessment2_group2</a>
+                <a href="" class="navbar-brand"> Foody</a>
+
+                </a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Profile">Profile</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
@@ -44,7 +38,22 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2017 - assessment2_group2</p>
+         <footer class="site-footer row">
+        <div class="container">
+            <div class="row">
+            </div>
+            <div class="bottom-footer">
+                <div class="col-md-5">© Copyright Webdevelopers 2017.</div>
+                <div class="col-md-7">
+                    <ul class="footer-nav">
+                        <li><a href="www.facebook.com">facebook</a></li>
+                        <li><a href="www.linkedin.com">linkedin</a></li>
+                        <li><a href="www.twitter.com">twitter</a></li>
+                        <li><a href="www.google.com">google+</a></li>
+                    </ul>
+                </div>
+            </div>
+    
         </footer>
     </div>
 

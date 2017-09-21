@@ -1,6 +1,15 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url('../images/foodbg.png');
+    /* background-color: red; */
+    background-size: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 /* Wrapping element */
@@ -24,6 +33,134 @@
 /* QR code generator */
 #qrCode {
     margin: 15px;
+}
+.navbar-brand {
+    text-align: left;
+    font-style: italic;
+    font-size: 40px;
+}
+.site-footer {
+    background-color: #0C0101;
+    color: #fff;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.bottom-footer {
+    border-top: 1px solid #b2b2b2;
+    color: #b2b2b2;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.footer-nav {
+    text-align: right;
+    list-style: none;
+    color: #20A579
+}
+
+.footer-nav a {
+    color: #7BD19D
+}
+
+.footer-nav a:hover {
+    color: #20A579
+}
+
+.footer-nav li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+.footer-nav li:not(:first-child):before {
+    content: '|';
+    padding: 0px 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: #E1E99F;
+    font-style: italic;
+}
+
+h2 {
+    text-align: right;
+    font-size: 35px;
+    color: #FDF9F9;
+}
+
+h5 {
+    text-align: center;
+    font-size: 35px;
+    color: #468CF7;
+}
+
+h3 {
+    display: inline-block;
+    text-align: left;
+    font-size: 35px;
+    color: #FDF9F9;
+}
+
+.custom-background {
+    background-color: white;
+}
+p {
+    font-size: 15px;
+    color: #6BCBF1;
+}
+.rcorners1 {
+    border-radius: 5px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+.p1 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #888888;
+
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 100, 255, 0.8);
+}
+.p2 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 120, 255, 0.8);
+}
+.p3 {
+    display: block;
+    height: 200px;
+    width: 100%;
+    box-shadow: 10px 10px 5px #888888;
+
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: rgba(0, 140, 255, 0.5);
+}
+
+p2 {
+    border-left: 4px solid transparent;
+    padding-left: 5px;
+    color: #6BCBF1;
+    font-size: 20px;
+    max-width: 150px;
+    font-style: italic;
+}
+.img{
+    padding: 50px 30px 50px 80px;
+
 }
 
 /* Hide/rearrange for smaller screens */
