@@ -12533,30 +12533,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\10011581\\.nuget\\packages\\": {},
+    "C:\\Users\\10010119\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\10011581\\Desktop\\Sachet\\assessment2-group2\\assessment2-group2.csproj",
+      "projectUniqueName": "C:\\Users\\10010119\\Desktop\\assessment2-group2\\assessment2-group2.csproj",
       "projectName": "assessment2-group2",
-      "projectPath": "C:\\Users\\10011581\\Desktop\\Sachet\\assessment2-group2\\assessment2-group2.csproj",
-      "packagesPath": "C:\\Users\\10011581\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\10011581\\Desktop\\Sachet\\assessment2-group2\\obj\\",
+      "projectPath": "C:\\Users\\10010119\\Desktop\\assessment2-group2\\assessment2-group2.csproj",
+      "packagesPath": "C:\\Users\\10010119\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\10010119\\Desktop\\assessment2-group2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\10011581\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\10010119\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
