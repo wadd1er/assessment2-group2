@@ -294,13 +294,11 @@ p2 {
 
 }
 .jumbotron{
-    margin-left: -15px;
-    margin-right: -15px;
-    margin-bottom: 5px;
+    background-color: transparent !important;
 }
-.third{
-    margin-bottom: -19px;
-}
+
+
+
 
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
