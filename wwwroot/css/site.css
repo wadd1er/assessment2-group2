@@ -91,7 +91,7 @@ body {
     padding: 0px 10px;
 }
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: 100px;
     color: #002266 !important;
     font-style: italic;
@@ -123,7 +123,7 @@ h6 {
 }
 
 .custom-background {
-    background-color: white;
+    background-color: rgba(7, 42, 88, 0.93);
 }
 p {
     font-size: 15px;
@@ -380,6 +380,7 @@ p2 {
     padding: 50px;
 }
 
+<<<<<<< HEAD
 #caption {
     color: white;
     padding: 25px;
@@ -387,6 +388,8 @@ p2 {
 }
 
 
+=======
+>>>>>>> 849b5aa73a50f7e8300bec549ffda0ead6aa75c0
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
     /* Hide captions */
