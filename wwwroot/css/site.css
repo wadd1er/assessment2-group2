@@ -91,7 +91,7 @@ body {
     padding: 0px 10px;
 }
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: 100px;
     color: white !important;
     font-style: italic;
@@ -377,10 +377,6 @@ p2 {
     position: relative;
     padding: 50px;
 }
-
-
-
-
 
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
