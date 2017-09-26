@@ -8,3 +8,13 @@ C:\Users\10010119\Desktop\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2
 C:\Users\10010119\Desktop\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.AssemblyInfo.cs
 C:\Users\10010119\Desktop\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.dll
 C:\Users\10010119\Desktop\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.pdb
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\bin\Debug\netcoreapp2.0\assessment2-group2.deps.json
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\bin\Debug\netcoreapp2.0\assessment2-group2.runtimeconfig.json
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\bin\Debug\netcoreapp2.0\assessment2-group2.runtimeconfig.dev.json
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\bin\Debug\netcoreapp2.0\assessment2-group2.dll
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\bin\Debug\netcoreapp2.0\assessment2-group2.pdb
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.csproj.CoreCompileInputs.cache
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.AssemblyInfoInputs.cache
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.AssemblyInfo.cs
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.dll
+C:\Users\Sachet Panwar\Desktop\Code\assessment2-group2\obj\Debug\netcoreapp2.0\assessment2-group2.pdb
